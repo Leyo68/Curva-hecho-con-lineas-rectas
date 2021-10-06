@@ -1,2 +1,2 @@
-# Curva hecho con lineas rectas
+# Curva hecho con líneas rectas
 
